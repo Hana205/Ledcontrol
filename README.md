@@ -72,6 +72,9 @@ Your WiFi network Password
 Now, just copy and paste the following code : https://github.com/Hana205/Ledcontrol/blob/main/BlynkLed-change-your-IDS.ino
 to the Arduino IDE, change the respective parameters, and you are ready to go!
 
-If your esp32 is not recognized please install the driver
+If your esp32 is not recognized please install the driver : https://github.com/Hana205/Ledcontrol/blob/main/CP210x_Universal_Windows_Driver.zip
+
+1 : download the zip fil : decompress it
+2 : go to computer peripherals : go to usb and port com : right click on the port with an error and indicate the place of : CP210x_Universal_Windows_Driver
 
 
