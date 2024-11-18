@@ -69,6 +69,9 @@ In addition to the keys to be added, you must assign the following parameters wh
 
 Your WiFi network SSID
 Your WiFi network Password
-Now, just copy and paste the following code to the Arduino IDE, change the respective parameters, and you are ready to go!
+Now, just copy and paste the following code : https://github.com/Hana205/Ledcontrol/blob/main/BlynkLed-change-your-IDS.ino
+to the Arduino IDE, change the respective parameters, and you are ready to go!
+
+If your esp32 is not recognized please install the driver
 
 
